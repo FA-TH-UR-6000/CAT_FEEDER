@@ -386,7 +386,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>MUX</string>
+          <string>x_0</string>
         </entry>
       </elementAttributes>
       <pos x="1380" y="-220"/>
@@ -396,7 +396,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>M</string>
+          <string>x_1</string>
         </entry>
       </elementAttributes>
       <pos x="1380" y="-180"/>

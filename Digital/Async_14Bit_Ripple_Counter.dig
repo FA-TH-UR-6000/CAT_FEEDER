@@ -233,7 +233,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q0</string>
+          <string>Q_0</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="-280"/>
@@ -277,7 +277,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q1</string>
+          <string>Q_1</string>
         </entry>
       </elementAttributes>
       <pos x="400" y="-280"/>
@@ -321,7 +321,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q2</string>
+          <string>Q_2</string>
         </entry>
       </elementAttributes>
       <pos x="540" y="-280"/>
@@ -365,7 +365,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q3</string>
+          <string>Q_3</string>
         </entry>
       </elementAttributes>
       <pos x="680" y="-280"/>
@@ -409,7 +409,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q4</string>
+          <string>Q_4</string>
         </entry>
       </elementAttributes>
       <pos x="820" y="-280"/>
@@ -453,7 +453,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q5</string>
+          <string>Q_5</string>
         </entry>
       </elementAttributes>
       <pos x="960" y="-280"/>
@@ -497,7 +497,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q6</string>
+          <string>Q_6</string>
         </entry>
       </elementAttributes>
       <pos x="1100" y="-280"/>
@@ -541,7 +541,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q7</string>
+          <string>Q_7</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="500"/>
@@ -585,7 +585,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q8</string>
+          <string>Q_8</string>
         </entry>
       </elementAttributes>
       <pos x="400" y="500"/>
@@ -629,7 +629,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q9</string>
+          <string>Q_9</string>
         </entry>
       </elementAttributes>
       <pos x="540" y="500"/>
@@ -673,7 +673,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q10</string>
+          <string>Q_10</string>
         </entry>
       </elementAttributes>
       <pos x="680" y="500"/>
@@ -717,7 +717,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q11</string>
+          <string>Q_11</string>
         </entry>
       </elementAttributes>
       <pos x="820" y="500"/>
@@ -761,7 +761,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q12</string>
+          <string>Q_12</string>
         </entry>
       </elementAttributes>
       <pos x="960" y="500"/>
@@ -805,7 +805,7 @@ System clock necessary to set initial state to 0.</string>
         </entry>
         <entry>
           <string>Label</string>
-          <string>Q13</string>
+          <string>Q_13</string>
         </entry>
       </elementAttributes>
       <pos x="1100" y="500"/>
